@@ -41,10 +41,6 @@ CryptSite is an effective tool for attackers seeking to exploit vulnerabilities 
 
 ---
 
-Here's the translated version for your `README.md` with the provided content:
-
----
-
 **Note:** If you have purchased CryptSite, we would like to remind you not to overlook the latest updates. Sometimes, when we release a new version, we offer updates for free to customers who have purchased the previous version with dates and times close to the release date of the latest version.
 
 Make sure to think first and ask us to ensure you dont miss important updates and new features from CryptSite.
