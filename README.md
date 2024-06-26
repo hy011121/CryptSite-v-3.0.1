@@ -18,7 +18,7 @@ CryptSite is an advanced ransomware tool designed to encrypt and extort data sto
 ### File Encryption
 CryptSite employs strong encryption algorithms to secure various types of files stored on web servers. Attackers can set a unique encryption key that transforms file contents into an unreadable format without the corresponding decryption key.
 
-### Database Encryption
+### Database Encryption ( Maintenance )
 CryptSite can also encrypt the contents of databases used in web server applications, including databases like MySQL, PostgreSQL, and others. This ensures that sensitive data within databases cannot be accessed without approval from the attacker executing the ransomware attack.
 
 ## CryptSite Operational Process
